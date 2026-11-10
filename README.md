@@ -1,5 +1,5 @@
 # AURUM DRIVE — Премиальный каршеринг и аренда спорткаров
-
+[![Deploy static site](https://github.com/MarkSUAI/aurum-drive-cicd/actions/workflows/deploy.yml/badge.svg)](https://github.com/MarkSUAI/aurum-drive-cicd/actions/workflows/deploy.yml)
 > **Учебный проект по дисциплине «Информатика» (Лабораторные работы № 4 и № 5)**  
 > **Исполнитель:** студент группы 4618 Шакиров М. Р.  
 > **Преподаватель:** ст. преп. Боженко В. В. (Кафедра № 4, ГУАП)  
